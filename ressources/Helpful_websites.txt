@@ -1,0 +1,11 @@
+Audio Deep Learning Made Simple: Sound Classification, Step-by-Step:
+https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5
+
+Classifying emotions using audio recordings and Python:
+https://towardsdatascience.com/classifying-emotions-using-audio-recordings-and-python-434e748a95eb
+
+How To Improve Deep Learning Performance: 
+https://machinelearningmastery.com/improve-deep-learning-performance/
+
+How to Grid Search Hyperparameters for Deep Learning Models in Python with Keras:
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/
