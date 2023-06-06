@@ -42,17 +42,17 @@ Then, the Fourier transform function is applied to each audio wave to obtain an 
 By analyzing these Mel-spectrograms, the CNN can learn to identify emotional patterns and make predictions about the emotions conveyed in the audio data.
 
 <p align="center">
-  <a href="https://github.com/MunznerLouis/AudioMood_private/blob/main/models/IEMOCAP_model2/plots/mel_spec_nfft_512.png">
+  <a href="https://github.com/MunznerLouis/AudioMood/blob/main/models/IEMOCAP_model2/plots/mel_spec_nfft_512.png">
 <img src="ressources/MEL-spectrogramm_example.png" alt="mel spectrogram example" width="90%">
 </a>
 </p>
 
 
 Each of the CNN models in this project incorporates a unique logic and solution to help the project achieve its goals. To provide a comprehensive understanding of each model's approach and design, I have provided detailed explanations in their respective files. You can access these files through the following links : 
- - [IEMOCAP CNN Model 1](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/IEMOCAP_model1) - **40% acc.** *extremly biased*
- - [IEMOCAP CNN Model 2](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/IEMOCAP_model2) - **30% acc.** *hypothesis : lack of data + poor data extraction*
- - [RAVDESS CNN Model 1](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/RAVDESS_model1) - **60% acc.**
- - [RAVDESS CNN+LSTM Model 1](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/RAVDESS_model2) - *in progress*
+ - [IEMOCAP CNN Model 1](https://github.com/MunznerLouis/AudioMood/tree/main/models/IEMOCAP_model1) - **40% acc.** *extremly biased*
+ - [IEMOCAP CNN Model 2](https://github.com/MunznerLouis/AudioMood/tree/main/models/IEMOCAP_model2) - **30% acc.** *hypothesis : lack of data + poor data extraction*
+ - [RAVDESS CNN Model 1](https://github.com/MunznerLouis/AudioMood/tree/main/models/RAVDESS_model1) - **60% acc.**
+ - [RAVDESS CNN+LSTM Model 1](https://github.com/MunznerLouis/AudioMood/tree/main/models/RAVDESS_model2) - *in progress*
 
  By reviewing these explanations, you will gain insight into the specific methods and techniques used in each model, and how they contribute to the overall project in addition to my learning process.
 
