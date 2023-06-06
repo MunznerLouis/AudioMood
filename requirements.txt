@@ -1,0 +1,9 @@
+librosa
+matplotlib
+numpy
+glob
+os
+re
+panda
+torch
+csv
