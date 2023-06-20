@@ -49,10 +49,10 @@ By analyzing these Mel-spectrograms, the CNN can learn to identify emotional pat
 
 
 Each of the CNN models in this project incorporates a unique logic and solution to help the project achieve its goals. To provide a comprehensive understanding of each model's approach and design, I have provided detailed explanations in their respective files. You can access these files through the following links : 
- - [IEMOCAP CNN Model 1](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/IEMOCAP_model1) - **40% acc.** *extremly biased*
- - [IEMOCAP CNN Model 2](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/IEMOCAP_model2) - **30% acc.** *hypothesis : lack of data + poor data extraction*
- - [RAVDESS CNN Model 1](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/RAVDESS_model1) - **60% acc.** *lack of generalization*
- - [RAVDESS CNN Model 2](https://github.com/MunznerLouis/AudioMood_private/tree/main/models/RAVDESS_model2) - *80% acc. in progress*
+ - [IEMOCAP CNN Model 1](https://github.com/MunznerLouis/AudioMood/tree/main/models/IEMOCAP_model1) - **40% acc.** *extremly biased*
+ - [IEMOCAP CNN Model 2](https://github.com/MunznerLouis/AudioMood/tree/main/models/IEMOCAP_model2) - **30% acc.** *hypothesis : lack of data + poor data extraction*
+ - [RAVDESS CNN Model 1](https://github.com/MunznerLouis/AudioMood/tree/main/models/RAVDESS_model1) - **60% acc.** *lack of generalization*
+ - [RAVDESS CNN Model 2](https://github.com/MunznerLouis/AudioMood/tree/main/models/RAVDESS_model2) - *80% acc. in progress*
 
  By reviewing these explanations, you will gain insight into the specific methods and techniques used in each model, and how they contribute to the overall project in addition to my learning process.
 
